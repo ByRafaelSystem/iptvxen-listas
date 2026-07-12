@@ -1,1 +1,1 @@
-{"version":2,"lists":[{"id":"remote-goldtv-1","name":"goldtv (del panel)","type":"xtream","server":"http://goldtv.lat:8080","user":"adiel410302399","pass":"GN6xesetkXhk"}]}
+{"version":3,"lists":[{"id":"panel-goldtv","name":"goldtv (panel)","type":"xtream","server":"http://goldtv.lat:8080","user":"adiel410302399","pass":"GN6xesetkXhk"},{"id":"panel-liontv","name":"liontv (panel)","type":"xtream","server":"http://liontv.es:8080","user":"JONNY1234","pass":"JONNY1234"}]}
